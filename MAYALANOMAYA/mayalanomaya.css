@@ -1,6 +1,7 @@
 body{
 margin: 0;
 padding: 0;
+background-color: #E9ECEF;
 }
 
 
@@ -32,6 +33,15 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
      
 }
 
+.bg-grey{
+    background-color: #2d3946;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 50px;
+    text-decoration: none;
+    
+}
+
 
 .bg-red{
 background-color: red;
@@ -47,3 +57,8 @@ background-color: red;
     
     
     }
+
+ .CARD{
+    background-color: #E9ECEF;
+    margin: auto;
+ }   
